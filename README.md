@@ -3,6 +3,8 @@ A day with sbt
 
 Code from a meetup presentation at [Göteborgs Scalaentusiaster](http://www.meetup.com/Scala-Geats/events/230320224/).
 
+[Slides](http://www.slideshare.net/marcuslonnberg/a-day-with-sbt)
+
 Plugins used
 
 - [sbt-buildinfo](https://github.com/sbt/sbt-buildinfo)
